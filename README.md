@@ -1,4 +1,4 @@
-# csgo_config
+# Kazuya's CS:GO Settings
 This is my current Counter Strike: Global Offensive autoexec config. Feel free to use this configuration as a template for your own gameplay!
 
 ### What's this?
