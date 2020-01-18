@@ -14,7 +14,7 @@ This repository provides `autoexec.cfg`, which will automatically configure in-g
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`.
 
 ### How it works
-CS:GO automatically executes *config.cfg* on startup. *config.cfg* executes *autoexec.cfg*, which then executes all the personalized configs.
+CS:GO automatically executes `config.cfg` on startup. config.cfg automatically executes `autoexec.cfg`, which then executes the personalized configs.
 If this doesn't work, try putting `exec autoexec.cfg` in your config.cfg file, or `+exec autoexec in your launch options`. Typing `exec autoxec` into the in-game console will also work.
 
 ### Launch Options
